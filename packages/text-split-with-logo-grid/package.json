@@ -12,12 +12,11 @@
   },
   "dependencies": {
     "@hashicorp/mktg-assets": "1.0.0-alpha.3",
-    "@hashicorp/react-image": "^2.0.3",
+    "@hashicorp/react-image": "^4.0.1",
     "@hashicorp/react-text-split": "^3.1.1"
   },
   "peerDependencies": {
     "@hashicorp/mktg-global-styles": ">=3.x",
-    "@hashicorp/nextjs-scripts": ">=17.x",
     "react": ">=16.x"
   }
 }

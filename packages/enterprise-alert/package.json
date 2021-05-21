@@ -7,15 +7,12 @@
   "contributors": [
     "Jeff Escalante"
   ],
-  "dependencies": {
-    "@hashicorp/js-utils": "^1.0.10"
-  },
-  "peerDependencies": {
-    "@hashicorp/mktg-global-styles": ">=3.x",
-    "@hashicorp/nextjs-scripts": ">=17.x"
-  },
   "homepage": "https://github.com/hashicorp/react-components/tree/master/packages/enterprise-alert",
   "license": "MPL-2.0",
+  "peerDependencies": {
+    "@hashicorp/mktg-global-styles": ">=3.x",
+    "react": ">=16.x"
+  },
   "publishConfig": {
     "access": "public"
   },

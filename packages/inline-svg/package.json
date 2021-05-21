@@ -17,7 +17,6 @@
   "main": "index.jsx",
   "peerDependencies": {
     "@hashicorp/mktg-global-styles": ">=3.x",
-    "@hashicorp/nextjs-scripts": ">=17.x",
     "react": ">=16.x"
   },
   "publishConfig": {
@@ -27,6 +26,5 @@
     "type": "git",
     "url": "https://github.com/hashicorp/react-components.git",
     "directory": "packages/inline-svg"
-  },
-  "gitHead": "c47c50a8419f6278073505ebbe25c9fbe4faab07"
+  }
 }
